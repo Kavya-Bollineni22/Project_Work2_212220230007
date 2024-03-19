@@ -48,14 +48,31 @@ Once trained, the DNN model can be deployed to segment tumors in unseen lung ima
 ## Articles published / References
 [1] Sarah E. Gerard, Jacode Hermann, Yi Xin, Kevin T. Martin, Davide Ippolito, Giacamo Bellani, Maurizio Cereda, "CT image segmentation for inflamed and fibrotic lungs using a multi-resolution convolutional neural network." (2021)
 <br/>
+<br/>
 [2] Jiantao Pu, Bin Zheng, Joseph Ken Leader, Carl Fuhrman, Friedrich Knollmann, Amy Klym, David Gur, "Pulmonary Lobe Segmentation in CT Examinations using Implicit Surface Fitting." (2021)
-[3] Zewei Zhang, Jialiang Ren, Xiuli Tao, Wei Tang, Shijun Zhao, Lina Zhou, Yao Huang, Jianwei Wang, Ning Wu, "Automatic Segmentation of pulmonary lobes on low-dose computed tomography using deep learning." (2021
+<br/>
+<br/>
+[3] Zewei Zhang, Jialiang Ren, Xiuli Tao, Wei Tang, Shijun Zhao, Lina Zhou, Yao Huang, Jianwei Wang, Ning Wu, "Automatic Segmentation of pulmonary lobes on low-dose computed tomography using deep learning." (2021)
+<br/>
+<br/>
 [4]	Ardila D, Kiraly AP, Bharadwaj S, et al. "End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography. Nature Medicine." (2019)
+<br/>
+<br/>
 [5]	Setio AAA, Traverso A, de Bel T, et al., "Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: The LUNA16 challenge." Medical Image Analysis. (2017)
+<br/>
+<br/>
 [6]	Zhang X, Xie Y, Xing F, et al. "Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images." Medical Physics. (2017)
+<br/>
+<br/>
 [7]	Yan K, Wang X, Lu L, et al., "DeepLesion: Automated mining of large-scale lesion annotations and universal lesion detection with deep learning. Journal of Medical Imaging." (2018)
+<br/>
+<br/>
 [8] Liang M, Tang W, Xu D, et al., "An automatic detection system of lung nodule based on multigroup patch-based deep learning network." Journal of Healthcare Engineering. (2017)
+<br/>
+<br/>
 [9] Shen W, Zhou M, Yang F, et al., "Multi-scale convolutional neural networks for lung  nodule classification." In: IEEE International Symposium on Biomedical Imaging. (2015)
+<br/>
+<br/>
 [10] Setio AAA, Ciompi F, Litjens G, et al., "Pulmonary nodule detection in CT images: False positive reduction using multi-view convolutional networks." IEEE Transactions on Medical Imaging. (2016)
 
 
